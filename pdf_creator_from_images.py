@@ -33,5 +33,7 @@ def create_pdf_from_images(directory, output_pdf_name):
 
 
 # Usage example
-create_pdf_from_images('/path/to/your/images', '/path/to/your/output.pdf')
+#create_pdf_from_images('/path/to/your/images', '/path/to/your/output.pdf')
+
+create_pdf_from_images('./images', 'output.pdf')
 
